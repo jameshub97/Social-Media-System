@@ -1,24 +1,14 @@
-# my-app
+# Social Media System (Vue 2 Learning Project)
 
-## Project setup
-```
-yarn install
-```
+**Historical Project (2022)** – This was my first real Vue.js application, built while learning frontend development. 
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Project Overview
 
-### Compiles and minifies for production
-```
-yarn build
-```
+A social media frontend prototype exploring Vue 2 component architecture, state management patterns, and modern frontend tooling. T
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+**What I learned:**
+- Vue 2 component structure and lifecycle
+- Single File Components (SFCs)
+- Vue CLI project setup and configuration
+- SCSS preprocessing for maintainable styles
+- Build tooling with Webpack, Babel, and ESLint
