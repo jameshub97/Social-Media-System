@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-A social media frontend prototype exploring Vue 2 component architecture, state management patterns, and modern frontend tooling. T
+A social media frontend prototype exploring Vue 2 component architecture, state management patterns, and modern frontend tools. 
 
 **What I learned:**
 - Vue 2 component structure and lifecycle
