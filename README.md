@@ -1,6 +1,6 @@
 # Social Media System (Vue 2 Learning Project)
 
-**Historical Project (2022)** – This was my first real Vue.js application, built while learning frontend development. 
+**Historical Project (2022)** - This was my first real Vue.js application, built while learning frontend development. 
 
 ## Project Overview
 
